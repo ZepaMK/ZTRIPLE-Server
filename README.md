@@ -29,5 +29,3 @@ npm install
 node server.js
 ```
 6. If the console outputs "SERVER IS RUNNING" the server is running and ready to handle incoming connections.
-
-
