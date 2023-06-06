@@ -6,8 +6,8 @@ The key component of this proof of concept is a server script that acts as a com
 The server script is built using Node.js and Express, with Socket.IO being leveraged for the bidirectional communication.
 
 ## Mobile client repository
-The following link redirects to the mobile application client repository: https://github.com/ZepaMK/ZTRIPLE-Android
-this server allows communication between the mobile client and the smart TV client.
+The following link redirects to the mobile (Android) client repository: https://github.com/ZepaMK/ZTRIPLE-Android.<br>
+The server allows communication between the mobile client and the smart TV client.
 It's important to note that the smart TV application repository is not publicly accessible due to confidentiality rules.
 
 # Features
